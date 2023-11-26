@@ -246,7 +246,7 @@
  &trans      &trans        &trans         &trans        &trans     &trans                                                        &trans        &trans         &trans        &trans        &trans  &trans
  &trans    &kp EXCL        &kp LT       &kp DLLR        &kp GT   &kp LBKT                                                        &trans      &kp RBKT   &kp LS(INT1)      &kp BSLH  &kp LS(INT3)  &trans
  &trans  &kp LS(N7)    &kp LS(N8)     &kp LS(N2)    &kp LS(N9)   &kp HASH                                                  &kp LA(INT3)  &kp LS(RBKT)  &kp LS(MINUS)  &kp LS(BSLH)     &kp MINUS  &trans
- &trans   &kp PRCNT  &kp LS(SEMI)  &kp ASTERISK  &kp LS(SEMI)  &kp GRAVE  &trans  &trans  &trans  &trans  &trans  &trans        &trans    &kp LS(N6)      &kp EQUAL     &kp TILDE      &kp INT3  &trans
+ &trans   &kp PRCNT  &kp SINGLE_QUOTE  &kp LS(SINGLE_QUOTE)  &kp LS(SEMI)  &kp GRAVE  &trans  &trans  &trans  &trans  &trans  &trans        &trans    &kp LS(N6)      &kp EQUAL     &kp TILDE      &kp INT3  &trans
  &trans      &trans        &trans         &trans        &trans             &trans  &trans  &trans  &trans  &trans  &trans                      &trans         &trans        &trans        &trans  &trans
             >;
         };
